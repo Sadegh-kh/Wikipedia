@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_explore"
+        android:title="Search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/ic_more"
+        android:title="more"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:title="Edit name"
+                android:icon="@drawable/ic_pencil"
+                android:id="@+id/menu_editName"
+                />
+            <item
+                android:title="Set New Photo"
+                android:icon="@drawable/ic_camera"
+                android:id="@+id/menu_addNewPhoto"/>
+            <item
+                android:title="Log Out"
+                android:icon="@drawable/ic_exit"
+                android:id="@+id/menu_logOut"/>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_ans_question.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_camera.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_chat.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_data.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_devices.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_exit.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_explore.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_folder.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_language.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_message.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_message1.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_more.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_pencil.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_profile.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_translate.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_trend.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_video_maker.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_wikipedia_detail.xml" value="0.1545" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/ic_writer.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/shape_circle.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/drawable/shape_menu_profile.xml" value="0.1575" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/activity_main4.xml" value="0.264" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/fragment_explore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/fragment_photographer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/fragment_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/fragment_trend.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_card_icons.xml" value="0.264" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_card_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_explore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/layout/item_trend.xml" value="0.264" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/menu/menu_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Job/android/Wikipedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
